@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.TwoSum;
 
 /**
  * Description:
@@ -8,7 +8,7 @@ package algorithm;
  * @version 1.0
  * @Date 2018/8/15 14:03
  */
-public class Algorithm00001 {
+public class TwoSum {
 
     public int[] twoSum(int[] nums, int target) {
         int[] result = new int[2];
