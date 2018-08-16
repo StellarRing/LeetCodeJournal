@@ -1,4 +1,4 @@
-package algorithm.AddTwoNumbers;
+package algorithm.addtwonumbers;
 
 /**
  * Description:

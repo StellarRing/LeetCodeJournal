@@ -1,4 +1,4 @@
-package algorithm.TwoSum;
+package algorithm.twosum;
 
 /**
  * Description:
