@@ -1,4 +1,4 @@
-import algorithm.lengthoflongestsubstring.LengthOfLongestSubstring;
+import algorithm.Leetcode0004FindMedianSortedArrays;
 
 /**
  * Description:
@@ -10,7 +10,7 @@ import algorithm.lengthoflongestsubstring.LengthOfLongestSubstring;
 public class Starter {
 
     public static void main(String[] args) {
-        int result = new LengthOfLongestSubstring().lengthOfLongestSubstring("aaa");
+        double result = new Leetcode0004FindMedianSortedArrays().findMedianSortedArrays(new int[]{3}, new int[]{-2,-1});
         System.out.println(result);
     }
 

@@ -1,4 +1,4 @@
-package algorithm.lengthoflongestsubstring;
+package algorithm;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,7 +10,7 @@ import java.util.List;
  * @version 1.0
  * @Date 2018/8/16 16:05
  */
-public class LengthOfLongestSubstring {
+public class Leetcode0003LengthOfLongestSubstring {
 
     public int lengthOfLongestSubstring(String s) {
         List<Character> strList = new ArrayList<>(s.length());

@@ -1,4 +1,6 @@
-package algorithm.addtwonumbers;
+package algorithm;
+
+import algorithm.bean.ListNode;
 
 /**
  * Description:
@@ -8,7 +10,7 @@ package algorithm.addtwonumbers;
  * @version 1.0
  * @Date 2018/8/15 14:03
  */
-public class AddTwoNumbers {
+public class Leetcode0002AddTwoNumbers {
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode cursor1 = l1;//链表1游标

@@ -1,4 +1,4 @@
-package algorithm.twosum;
+package algorithm;
 
 /**
  * Description:
@@ -8,7 +8,7 @@ package algorithm.twosum;
  * @version 1.0
  * @Date 2018/8/15 14:03
  */
-public class TwoSum {
+public class Leetcode0001TwoSum {
 
     public int[] twoSum(int[] nums, int target) {
         int[] result = new int[2];

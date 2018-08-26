@@ -1,4 +1,4 @@
-package algorithm.addtwonumbers;
+package algorithm.bean;
 
 /**
  * Description:
@@ -8,7 +8,7 @@ package algorithm.addtwonumbers;
  * @Date 2018/8/16 10:26
  */
 public class ListNode {
-    int val;
+    public int val;
     public ListNode next;
 
     public ListNode(int x) {
